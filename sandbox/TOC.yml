@@ -27,9 +27,15 @@
         items:
         - name: Using Azure SDKs with MonoGame
           href: gamedev/monogame/azure-monogame.md
-    - name: GameDev Quickstarts
+    - name: Quickstarts
       items:
-      - name: Easy Tables with Unity and the Mobile Apps SDK
-        href: gamedev/unity/samples/azure-mobile-apps-unity-racer.md
-    - name: Unity Samples
-      href: https://github.com/BrianPeek/AzureSamples-Unity/
+      - name: Unity
+        items:
+        - name: Easy Tables with Unity and the Mobile Apps SDK
+          href: gamedev/unity/samples/azure-mobile-apps-unity-racer.md
+    - name: Samples
+      items:
+      - name: Unity
+        href: https://github.com/BrianPeek/AzureSamples-Unity/
+      - name: MonoGame
+        href: https://github.com/BrianPeek/AzureSamples-MonoGame/
