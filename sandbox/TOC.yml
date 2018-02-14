@@ -13,7 +13,7 @@
         href: demos/nothotdog.md
     - name: Game Development with Azure
       href: gamedev/index.yml
-    - name: SDKs &amp; Tools
+    - name: SDKs & Tools
       items:
       - name: Unity
         items:
