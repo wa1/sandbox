@@ -50,7 +50,7 @@ sections:
 - title: Game Development Quickstarts
   items:
   - type: paragraph
-    text: 'Learn how to use the Azure SDK for Game Development.'
+    text: 'Learn how to use the Azure SDKs for Game Development.'
   - type: list
     style: cards
     className: cardsM
@@ -60,20 +60,19 @@ sections:
       href: unity/samples/azure-mobile-apps-unity-racer
       image:
         src: https://docs.microsoft.com/media/unity.png
-    - title: Create a Leaderboard with Azure Functions and CosmosDB
+- title: Samples
+  items:
+  - type: paragraph
+    text: 'Samples demonstrating Game Development for Azure'
+  - type: list
+    style: cards
+    className: cardsM
+    columns: 2
+    items: 
+      - title: Create a Leaderboard with Azure Functions and CosmosDB
       href: https://docs.microsoft.com/somewhere
       image:
         src: https://docs.microsoft.com/azure/media/index/logo_azure-blob-storage.svg
-  - title: Samples
-    items:
-    - type: list
-      style: unordered
-      items:
-      - html: <a href="https://github.com/Azure-Samples/azure-sdk-for-go-samples/tree/master/iam">Authenticate with Azure services</a>
-      - html: <a href="https://github.com/Azure-Samples/azure-sdk-for-go-samples/tree/master/compute">Create new Virtual Machines</a>
-      - html: <a href="https://github.com/Azure-Samples/azure-sdk-for-go-samples/tree/master/containerinstance">Deploy a container to Azure Container Instances</a>
-      - html: <a href="https://github.com/Azure-Samples/azure-sdk-for-go-samples/tree/master/containerservice">Create a cluster in Azure Kubernetes Service</a>
-      - html: <a href="https://github.com/Azure-Samples/azure-sdk-for-go-samples/tree/master/storage">Work with Azure Storage services</a>
       
 # - title: Unity
 #   items:
