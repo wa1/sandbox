@@ -1,7 +1,9 @@
 - name: The Sandbox
   href: index.yml
   items:
-    - name: Demos
+    - name: Game Development with Azure
+      href: gamedev/index.yml
+    - name: Sandbox Demos
       expanded: true
       href: demos/index.yml
       items:
@@ -11,5 +13,3 @@
         href: demos/notbacon.md
       - name: NotHotdog
         href: demos/nothotdog.md
-    - name: Game Development with Azure
-      href: gamedev/index.yml
