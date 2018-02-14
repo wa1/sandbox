@@ -4,61 +4,112 @@ title: Azure for Game Developers
 metadata:
   document_id: 82e6a19c-bcea-4072-80c0-ec505ae125a5
   title: The Sandbox - Azure for Game Developers
-  description: Demos and code
-  keywords: Azure, .NET, Node.js, API
+  description: Get started developing games that use Azure with the developer resources below.
+  keywords: Azure, .NET, Node.js, API, Unity, GameDev
   author: brianpeek
   ms.author: brpeek
   manager: timheuer
-  ms.date: 11/08/2017
+  ms.date: 02/13/2018
   ms.topic: article
   featureFlags:
   - clicktale
   ms.service: multiple
+  ms.technology: azure
+  ms.prod: azure
 sections:
 - items:
   - type: markdown
     text: |
-      Get started with developing games that use Azure.  More coming soon!
-- title: Unity
-  items:
-  - type: paragraph
-    text: Experimental SDKs and samples for Unity developers.
+      Get started with developing games that use Azure using our tutorials and tools.
+- items:
   - type: list
     style: cards
     className: cardsM
     columns: 2
     items:
-    - title: Azure Storage SDK for Unity
-      html: <p>Use Azure Storage from your Unity project</p>
-      href: unity/azure-storage-unity
+    - title: Get Started
+      html: <p>Learn more about developing games that use Azure</p>
+      href: https://docs.microsoft.com/somewhere
       image:
-        src: media/unity.png
-    - title: Azure Event Hubs SDK for Unity
-      html: <p>Use Azure Event Hubs from your Unity project</p>
-      href: unity/azure-event-hubs-unity
+        src: https://docs.microsoft.com/media/common/i_get-started.svg
+    - title: Code Samples
+      html: <p>Azure code samples for game developers</p>
       image:
-        src: media/unity.png
-    - title: Azure Mobile Apps SDK for Unity
-      html: <p>Use Azure Mobile Apps from your Unity project</p>
-      href: unity/azure-mobile-apps-unity
+        src: https://docs.microsoft.com/media/common/i_code-samples.svg
+      href: https://github.com/BrianPeek/AzureSamples-Unity/
+    - title: SDKs &amp; Tools
+      html: <p>Developer SDKs and tools</p>
+      href: https://docs.microsoft.com/somewhere
       image:
-        src: media/unity.png
-    - title: Azure Easy Tables and Unity
-      html: <p>Use Azure Easy Tables and the Mobile Apps SDK with Unity</p>
-      href: unity/samples/azure-mobile-apps-unity-racer
+        src: https://docs.microsoft.com/media/common/i_download-install.svg
+    - title: API Reference
+      html: <p>GoDoc for Azure SDK for Go</p>
+      href: https://godoc.org/github.com/Azure/azure-sdk-for-go
       image:
-        src: media/unity.png
-- title: MonoGame
+        src: https://docs.microsoft.com/media/common/i_api-reference.svg
+- title: Game Development Quickstarts
   items:
   - type: paragraph
-    text: Samples and docs for MonoGame developers.
+    text: 'Learn how to use the Azure SDK for Game Development.'
   - type: list
     style: cards
     className: cardsM
     columns: 2
     items: 
-    - title: Azure SDKs for MonoGame
-      html: <p>Use the Azure SDKs with MonoGame</p>
-      href: monogame/azure-monogame
+    - title: Use Azure Easy Tables with Unity
+      href: unity/samples/azure-mobile-apps-unity-racer
       image:
-        src: media/monogame.png
+        src: https://docs.microsoft.com/media/unity.png
+    - title: Create a Leaderboard with Azure Functions and CosmosDB
+      href: https://docs.microsoft.com/somewhere
+      image:
+        src: https://docs.microsoft.com/azure/media/index/logo_azure-blob-storage.svg
+  - title: Samples
+    items:
+    - type: list
+      style: unordered
+      items:
+      - html: <a href="https://github.com/Azure-Samples/azure-sdk-for-go-samples/tree/master/iam">Authenticate with Azure services</a>
+      - html: <a href="https://github.com/Azure-Samples/azure-sdk-for-go-samples/tree/master/compute">Create new Virtual Machines</a>
+      - html: <a href="https://github.com/Azure-Samples/azure-sdk-for-go-samples/tree/master/containerinstance">Deploy a container to Azure Container Instances</a>
+      - html: <a href="https://github.com/Azure-Samples/azure-sdk-for-go-samples/tree/master/containerservice">Create a cluster in Azure Kubernetes Service</a>
+      - html: <a href="https://github.com/Azure-Samples/azure-sdk-for-go-samples/tree/master/storage">Work with Azure Storage services</a>
+      
+# - title: Unity
+#   items:
+#   - type: paragraph
+#     text: Experimental SDKs and samples for Unity developers.
+#   - type: list
+#     style: cards
+#     className: cardsM
+#     columns: 2
+#     items:
+#     - title: Azure Storage SDK for Unity
+#       html: <p>Use Azure Storage from your Unity project</p>
+#       href: unity/azure-storage-unity
+#       image:
+#         src: media/unity.png
+#     - title: Azure Event Hubs SDK for Unity
+#       html: <p>Use Azure Event Hubs from your Unity project</p>
+#       href: unity/azure-event-hubs-unity
+#       image:
+#         src: media/unity.png
+#     - title: Azure Mobile Apps SDK for Unity
+#       html: <p>Use Azure Mobile Apps from your Unity project</p>
+#       href: unity/azure-mobile-apps-unity
+#       image:
+#         src: media/unity.png
+# - title: MonoGame
+#   items:
+#   - type: paragraph
+#     text: Samples and docs for MonoGame developers.
+#   - type: list
+#     style: cards
+#     className: cardsM
+#     columns: 2
+#     items: 
+#     - title: Azure SDKs for MonoGame
+#       html: <p>Use the Azure SDKs with MonoGame</p>
+#       href: monogame/azure-monogame
+#       image:
+#         src: media/monogame.png
