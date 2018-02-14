@@ -54,7 +54,7 @@ sections:
     - title: SDKs & Tools
       href: unity/samples/azure-mobile-apps-unity-racer
       image:
-        src: media/unity.png
+        src: https://docs.microsoft.com/media/common/i_download-install.svg
     - title: Quickstarts
       href: unity/samples/azure-mobile-apps-unity-racer
       image:
@@ -62,26 +62,26 @@ sections:
     - title: Samples
       href: unity/samples/azure-mobile-apps-unity-racer
       image:
+        src: https://docs.microsoft.com/media/common/i_code-samples.svg
+- title: MonoGame Developers
+  items:
+  - type: paragraph
+    text: 'Resources for MonoGame Developers.'
+  - type: list
+    style: cards
+    className: cardsM
+    columns: 3
+    items: 
+    - title: SDKs & Tools
+      href: unity/samples/azure-mobile-apps-unity-racer
+      image:
+        src: https://docs.microsoft.com/media/common/i_download-install.svg
+    - title: Quickstarts
+      href: unity/samples/azure-mobile-apps-unity-racer
+      image:
         src: media/unity.png
-  - title: MonoGame Developers
-    items:
-    - type: paragraph
-      text: 'Resources for MonoGame Developers.'
-    - type: list
-      style: cards
-      className: cardsM
-      columns: 3
-      items: 
-      - title: SDKs & Tools
-        href: unity/samples/azure-mobile-apps-unity-racer
-        image:
-          src: media/unity.png
-      - title: Quickstarts
-        href: unity/samples/azure-mobile-apps-unity-racer
-        image:
-          src: media/unity.png
-      - title: Samples
-        href: unity/samples/azure-mobile-apps-unity-racer
-        image:
-          src: media/unity.png
-      
+    - title: Samples
+      href: unity/samples/azure-mobile-apps-unity-racer
+      image:
+        src: https://docs.microsoft.com/media/common/i_code-samples.svg
+    
