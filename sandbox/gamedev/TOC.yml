@@ -2,27 +2,27 @@
   href: index.yml
 - name: SDKs & Tools
   items:
-- name: Unity
-  items:
-  - name: Azure Storage SDK
-    href: unity/azure-storage-unity.md
-  - name: Azure Event Hubs SDK
-    href: unity/azure-event-hubs-unity.md
-  - name: Azure Mobile Apps SDK
-    href: unity/azure-mobile-apps-unity.md
-- name: MonoGame
-  items:
-  - name: Using Azure SDKs with MonoGame
-    href: monogame/azure-monogame.md
+  - name: Unity
+    items:
+    - name: Azure Storage SDK
+      href: unity/azure-storage-unity.md
+    - name: Azure Event Hubs SDK
+      href: unity/azure-event-hubs-unity.md
+    - name: Azure Mobile Apps SDK
+      href: unity/azure-mobile-apps-unity.md
+  - name: MonoGame
+    items:
+    - name: Using Azure SDKs with MonoGame
+      href: monogame/azure-monogame.md
 - name: Quickstarts
   items:
-- name: Unity
-  items:
-  - name: Easy Tables with Unity and the Mobile Apps SDK
-    href: unity/samples/azure-mobile-apps-unity-racer.md
+  - name: Unity
+    items:
+    - name: Easy Tables with Unity and the Mobile Apps SDK
+      href: unity/samples/azure-mobile-apps-unity-racer.md
 - name: Samples
   items:
-- name: Unity
-  href: https://github.com/BrianPeek/AzureSamples-Unity/
-- name: MonoGame
-  href: https://github.com/BrianPeek/AzureSamples-MonoGame/
+  - name: Unity
+    href: https://github.com/BrianPeek/AzureSamples-Unity/
+  - name: MonoGame
+    href: https://github.com/BrianPeek/AzureSamples-MonoGame/
