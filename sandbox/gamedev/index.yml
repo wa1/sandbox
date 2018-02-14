@@ -69,7 +69,7 @@ sections:
     className: cardsM
     columns: 2
     items: 
-      - title: Create a Leaderboard with Azure Functions and CosmosDB
+    - title: Create a Leaderboard with Azure Functions and CosmosDB
       href: https://docs.microsoft.com/somewhere
       image:
         src: https://docs.microsoft.com/azure/media/index/logo_azure-blob-storage.svg
