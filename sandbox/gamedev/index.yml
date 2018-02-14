@@ -42,11 +42,6 @@ sections:
       href: https://docs.microsoft.com/somewhere
       image:
         src: https://docs.microsoft.com/media/common/i_download-install.svg
-    - title: API Reference
-      html: <p>GoDoc for Azure SDK for Go</p>
-      href: https://godoc.org/github.com/Azure/azure-sdk-for-go
-      image:
-        src: https://docs.microsoft.com/media/common/i_api-reference.svg
 - title: Game Development Quickstarts
   items:
   - type: paragraph
