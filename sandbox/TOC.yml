@@ -11,30 +11,25 @@
         href: demos/notbacon.md
       - name: NotHotdog
         href: demos/nothotdog.md
-    - name: Game Development
-      expanded: false
+    - name: Game Development with Azure
       href: gamedev/index.yml
+    - name: SDKs &amp; Tools
       items:
       - name: Unity
-        expanded: true
         items:
-        - name: SDKs
-          expanded: false
-          items:
-          - name: Azure Storage SDK
-            href: gamedev/unity/azure-storage-unity.md
-          - name: Azure Event Hubs SDK
-            href: gamedev/unity/azure-event-hubs-unity.md
-          - name: Azure Mobile Apps SDK
-            href: gamedev/unity/azure-mobile-apps-unity.md
-        - name: Samples
-          expanded: false
-          items:
-          - name: Easy Tables with Unity and the Mobile Apps SDK
-            href: gamedev/unity/samples/azure-mobile-apps-unity-racer.md
+        - name: Azure Storage SDK
+          href: gamedev/unity/azure-storage-unity.md
+        - name: Azure Event Hubs SDK
+          href: gamedev/unity/azure-event-hubs-unity.md
+        - name: Azure Mobile Apps SDK
+          href: gamedev/unity/azure-mobile-apps-unity.md
       - name: MonoGame
-        expanded: false
         items:
         - name: Using Azure SDKs with MonoGame
           href: gamedev/monogame/azure-monogame.md
-
+    - name: GameDev Quickstarts
+      items:
+      - name: Easy Tables with Unity and the Mobile Apps SDK
+        href: gamedev/unity/samples/azure-mobile-apps-unity-racer.md
+    - name: Unity Samples
+      href: https://github.com/BrianPeek/AzureSamples-Unity/
