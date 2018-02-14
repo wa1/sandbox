@@ -1,7 +1,7 @@
 - name: Game Development with Azure
   href: index.yml
 - name: SDKs & Tools
-items:
+  items:
 - name: Unity
   items:
   - name: Azure Storage SDK
