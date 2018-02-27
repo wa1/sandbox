@@ -35,7 +35,7 @@ Unreal Engine can use a combination of Blueprints and C++.  To use Azure with C+
 
 * Unreal Engine Storage Sample I'll Write Someday
 
-## [C++ (DirectX, Cocos2d-x, SDL, etc.)]((#tab/cpp)
+## [C++ (DirectX, Cocos2d-x, SDL, etc.)](#tab/cpp)
 
 Many game developers opt to use a native C++ framework.  To use Azure services via C++ there are several options.  For services which have a native SDK, such as Storage, you may be able to use these directly.  For those that do not, many Azure services include a REST endpoint which can be hit from your C++ game by using a library like Casablanca.  For more information, please see the following:
 
@@ -49,7 +49,7 @@ PlayFab is a complete backend platform for games.  Check out the PlayFab site fo
 
 * PlayFab
 
-## [Gaming Backends]((#tab/backend)
+## [Gaming Backends](#tab/backend)
 
 Of course, no matter what engine or tool you are using, you can create gaming backends on Azure with whatever services, languages, and tools you see fit.  For more information on creating gaming backends, please see the following:
 
