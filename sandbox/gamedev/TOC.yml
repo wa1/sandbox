@@ -2,7 +2,7 @@
   href: index.yml
 - name: Overview
   items:
-  - name: Overview
+  - name: Get Started
     href: get-started-gamedev.md
   - name: SDKs & Tools
     href: sdks-tools-gamedev.md
