@@ -26,6 +26,7 @@
   - name: Easy Tables with Unity and the Mobile Apps SDK
     href: unity/samples/azure-mobile-apps-unity-racer.md
 - name: Samples
+  href: samples-gamedev.md
   items:
   - name: Unity
     href: https://github.com/BrianPeek/AzureSamples-Unity/
