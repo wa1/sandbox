@@ -39,7 +39,7 @@ sections:
       href: https://github.com/BrianPeek/AzureSamples-Unity/
     - title: SDKs &amp; Tools
       html: <p>Developer SDKs and tools</p>
-      href: gamedev-tools
+      href: gamedev-sdks-tools
       image:
         src: https://docs.microsoft.com/media/common/i_download-install.svg
 - title: Game Development Quickstarts
