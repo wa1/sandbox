@@ -25,7 +25,7 @@ sections:
   - type: list
     style: cards
     className: cardsM
-    columns: 2
+    columns: 3
     items:
     - title: Get Started
       html: <p>Learn more about developing games that use Azure</p>
@@ -36,10 +36,10 @@ sections:
       html: <p>Azure code samples for game developers</p>
       image:
         src: https://docs.microsoft.com/media/common/i_code-samples.svg
-      href: https://github.com/BrianPeek/AzureSamples-Unity/
+      href: samples-gamedev
     - title: SDKs &amp; Tools
       html: <p>Developer SDKs and tools</p>
-      href: gamedev-sdks-tools
+      href: sdks-tools-gamedev
       image:
         src: https://docs.microsoft.com/media/common/i_download-install.svg
 - title: Game Development Quickstarts

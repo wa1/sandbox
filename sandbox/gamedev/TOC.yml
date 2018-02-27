@@ -1,7 +1,7 @@
 - name: Game Development with Azure
   href: index.yml
 - name: SDKs & Tools
-  href: gamedev-sdks-tools.md
+  href: sdks-tools-gamedev.md
   # items:
   # - name: Unity
   #   items:
