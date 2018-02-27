@@ -29,7 +29,7 @@ sections:
     items:
     - title: Get Started
       html: <p>Learn more about developing games that use Azure</p>
-      href: https://docs.microsoft.com/sandbox/gamedev/get-started-gamedev
+      href: get-started-gamedev
       image:
         src: https://docs.microsoft.com/media/common/i_get-started.svg
     - title: Code Samples
@@ -39,7 +39,7 @@ sections:
       href: https://github.com/BrianPeek/AzureSamples-Unity/
     - title: SDKs &amp; Tools
       html: <p>Developer SDKs and tools</p>
-      href: https://docs.microsoft.com/somewhere
+      href: gamedev-tools
       image:
         src: https://docs.microsoft.com/media/common/i_download-install.svg
 - title: Game Development Quickstarts
@@ -65,7 +65,7 @@ sections:
     columns: 2
     items: 
     - title: Create a Leaderboard with Azure Functions and CosmosDB
-      href: https://docs.microsoft.com/somewhere
+      href: https://github.com/dgkanatsios/AzureFunctionsNodeLeaderboards-Cosmos
       image:
         src: https://docs.microsoft.com/azure/media/index/logo_azure-blob-storage.svg
       
