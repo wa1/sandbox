@@ -1,6 +1,6 @@
 ---
 title: SDKs and Tools for Game Developers on Azure
-description: Getting started info for gamedevs on Azure
+description: SDKs and Tools for Game Developers on Azure
 author: BrianPeek
 keywords: unity, azure,
 ms.topic: article
