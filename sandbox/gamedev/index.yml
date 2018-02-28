@@ -54,7 +54,7 @@ sections:
     - title: Use Azure Easy Tables with Unity
       href: unity/samples/azure-mobile-apps-unity-racer
       image:
-        src: media/unity.png
+        src: media/logos/unity.png
 - title: Samples
   items:
   - type: paragraph

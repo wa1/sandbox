@@ -57,24 +57,24 @@ sections:
       html: <p>Use Azure Storage from your Unity project</p>
       href: gamedev/unity/azure-storage-unity
       image:
-        src: gamedev/media/unity.png
+        src: gamedev/media/logos/unity.png
     - title: Azure Event Hubs SDK for Unity
       html: <p>Use Azure Event Hubs from your Unity project</p>
       href: gamedev/unity/azure-event-hubs-unity
       image:
-        src: gamedev/media/unity.png
+        src: gamedev/medialogos//unity.png
     - title: Azure Mobile Apps SDK for Unity
       html: <p>Use Azure Mobile Apps from your Unity project</p>
       href: gamedev/unity/azure-mobile-apps-unity
       image:
-        src: gamedev/media/unity.png
+        src: gamedev/media/logos/unity.png
     - title: Azure Easy Tables and Unity
       html: <p>Use Azure Easy Tables and the Mobile Apps SDK with Unity</p>
       href: gamedev/unity/samples/azure-mobile-apps-unity-racer
       image:
-        src: gamedev/media/unity.png
+        src: gamedev/media/logos/unity.png
     - title: Azure SDKs for MonoGame
       html: <p>Use Azure SDKs with MonoGame</p>
       href: gamedev/monogame/azure-monogame
       image:
-        src: gamedev/media/monogame.png
+        src: gamedev/media/logos/monogame.png
