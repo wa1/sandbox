@@ -48,7 +48,7 @@ PlayFab is a complete backend platform for games.  Check out the PlayFab site fo
 
 * [PlayFab](https://playfab.com/)
 
-## [![server logo](media/playserver-small.png) Gaming Backends](#tab/backend)
+## [![server logo](media/server-small.png) Gaming Backends](#tab/backend)
 
 Of course, no matter what engine or tool you are using, you can create gaming backends on Azure with whatever services, languages, and tools you see fit.  For more information on creating gaming backends, please see the following:
 
