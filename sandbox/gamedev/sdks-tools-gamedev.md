@@ -12,7 +12,7 @@ manager: timheuer
 
 Game developers use a variety of engines and frameworks to create games.  Each of these has its own method to use plugins, SDKs and external tools.  Here are some instructions for getting started wtih some of the most popular engines available today. Please note that this is not an exhaustive list and will be expanded upon over time.
 
-## [Unity](#tab/unity)
+## [![](media/unity.png)Unity](#tab/unity)
 
 We are providing several experimental SDKs for Unity developers to access various Azure services.  The goal is to provide friendly asset packages (.unitypackage) which contain everything you need to access a particular Azure service, along with a sample scene demonstrating how to use it.  In addition, these packages will use the standard .NET SDK binaries, so the API and documentation will be identical.  Today, we have the following packages:
 
