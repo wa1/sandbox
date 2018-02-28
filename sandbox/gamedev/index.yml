@@ -32,16 +32,16 @@ sections:
       href: get-started-gamedev
       image:
         src: https://docs.microsoft.com/media/common/i_get-started.svg
-    - title: Code Samples
-      html: <p>Azure code samples for game developers</p>
-      image:
-        src: https://docs.microsoft.com/media/common/i_code-samples.svg
-      href: samples-gamedev
     - title: SDKs &amp; Tools
       html: <p>Developer SDKs and tools</p>
       href: sdks-tools-gamedev
       image:
         src: https://docs.microsoft.com/media/common/i_download-install.svg
+    - title: Code Samples
+      html: <p>Azure code samples for game developers</p>
+      image:
+        src: https://docs.microsoft.com/media/common/i_code-samples.svg
+      href: samples-gamedev
 - title: Game Development Quickstarts
   items:
   - type: paragraph
