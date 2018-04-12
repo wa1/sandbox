@@ -8,7 +8,7 @@ ms.date: 02/22/2018
 ms.author: brpeek
 manager: timheuer
 ---
-# Getting Started wtih Game Development on Azure
+# Getting Started with Game Development on Azure
 
 Azure services can be used for gaming in many different ways from and with your favorite game development tools and platforms.  Here are some ways to get started depending on the tools you're using and the services you wish to use.
 
