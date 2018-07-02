@@ -4,7 +4,7 @@ Queues and Topics from Azure Service Bus can be used as triggers for your functi
 Using the `ServiceBusTrigger` attribute, you can supply the queue or topic name, along with the connection information for the Service Bus instance.
 
 ```csharp
- [FunctionName("ServiceBusQueueTrigger)]
+ [FunctionName("ServiceBusQueueTrigger")]
  public static void Run([ServiceBusTrigger("funcqueue", AccessRights.Manage, Connection = "ConnectionSetting")]string queueMessage,
                         TraceWriter log)
  {
